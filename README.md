@@ -1,7 +1,9 @@
 <p align="center">
   <img src="Leetcodelogo.png">
 </p>
-# May-LeetCoding-Challenge
+
+# Leetcode Topicwise Solutions
+
 Solutions to Topicwise Problems in [Leetcode](https://leetcode.com/problemset/all/)  
 
 
