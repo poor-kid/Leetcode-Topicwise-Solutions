@@ -14,7 +14,7 @@ Lockdown gave me an ample time to start solving problems on Leetcode.
 I have chosen C++ as my preferable language. I will be uploading the solutions to these questions (best of my knowledge).
 
 
-Week 1
+Array
 ------
 | # | Title | Solution | Difficulty | Time Complexity | Space Complexity |
 |---| ----- | -------- | ---------- | --------------- | ---------------- |
