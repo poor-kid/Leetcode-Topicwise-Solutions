@@ -5,14 +5,14 @@ public:
         vector<int>temp(nums);
         sort(temp.begin(),temp.end());
         unordered_map<int,int> map;
-        
+        /*Inserting the indeces of sorted array in HashMap */
         for(int i=0;i<len;i++)
         {
             auto it = map.find(temp[i]);
             if(it == map.end())
                 map[temp[i]] = i;
         }
-        
+        /*Index of the particular element in sorted array will give the smaller numbers than current */
         vector<int> res(len);
         for(int i=0;i<len;i++)
         {
@@ -21,6 +21,7 @@ public:
         return res;
     }
 };
+
 
 
 
