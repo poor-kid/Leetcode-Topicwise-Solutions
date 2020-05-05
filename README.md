@@ -23,5 +23,5 @@ Array
 |1365|[How Many Numbers Are Smaller Than the Current Number](https://leetcode.com/problems/how-many-numbers-are-smaller-than-the-current-number/) | [C++](https://github.com/poor-kid/Leetcode-Topicwise-Solutions/blob/master/Array/Count_of_Numbers_Smaller_than_current_number.cpp)|Easy|  |  |
 |1409|[Queries on a Permutation With Key](https://leetcode.com/problems/queries-on-a-permutation-with-key/) | [C++](https://github.com/poor-kid/Leetcode-Topicwise-Solutions/blob/master/Array/Queries_on_a_permutaion_with_key.cpp)|Medium|  |  |
 |1395|[Count Number of Teams](https://leetcode.com/problems/count-number-of-teams/) | [C++](https://github.com/poor-kid/Leetcode-Topicwise-Solutions/blob/master/Array/Count_number_of_Teams.cpp)|Medium|  |  |
-
+|1395|[Count Number of Teams](https://leetcode.com/problems/count-number-of-teams/) | [C++](https://github.com/poor-kid/Leetcode-Topicwise-Solutions/blob/master/Array/Count_number_of_Teams.cpp)|Medium|  |  |
 
