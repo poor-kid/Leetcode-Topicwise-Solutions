@@ -69,3 +69,27 @@ public:
         
     }
 };
+
+/* ---------------------- OR ----------------- */
+class Solution {
+    void maxDepthHelper(Node *root,int depth,int &maxDepth)
+    {
+        if(root == NULL)
+            return;
+        int newDepth = depth+1;
+        maxDepth = max(maxDepth,newDepth);
+        for(auto child : root->children){
+            maxDepthHelper(child,newDepth,maxDepth);
+        }
+    }
+public:
+   int maxDepth(Node *root)
+    {
+        if(root == NULL)
+            return 0;
+        int depth =0,maxDepth = INT_MIN;
+        maxDepthHelper(root,depth,maxDepth);
+        return maxDepth;
+
+    }
+};
